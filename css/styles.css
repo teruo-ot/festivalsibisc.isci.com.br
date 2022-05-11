@@ -11452,7 +11452,7 @@ section.cta:before {
 section.map {
   position: relative;
   padding: 5rem 0;
-  background-image: url(/assets/img/mapaPatricia.webp);
+  /* background-image: url(/assets/img/mapaPatricia.webp); */
   background-position: center;
   background-size: cover;
 }
